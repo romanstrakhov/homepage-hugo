@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://git.strakhov.ru/fixed/about/</loc>
+    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/blog/first/</loc>
+    <lastmod>2017-03-30T23:14:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/post/first/</loc>
+    <lastmod>2017-03-30T23:14:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/blog/</loc>
+    <lastmod>2017-03-30T23:14:02+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/tags/fixed/</loc>
+    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/fixed/</loc>
+    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/</loc>
+    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/post/</loc>
+    <lastmod>2017-03-30T23:14:02+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
