@@ -2,23 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://git.strakhov.ru/fixed/about/</loc>
-    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://git.strakhov.ru/fixed/contact/</loc>
-    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://git.strakhov.ru/blog/first/</loc>
     <lastmod>2017-03-30T23:14:02+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://git.strakhov.ru/post/first/</loc>
-    <lastmod>2017-03-30T23:14:02+03:00</lastmod>
+    <loc>http://git.strakhov.ru/blog/les-mis%C3%A9rables-by-victor-hugo/</loc>
+    <lastmod>2015-12-21T04:05:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/blog/metamorphosis-by-franz-kafka/</loc>
+    <lastmod>2015-12-21T04:03:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/blog/use-at-instead-of-head/</loc>
+    <lastmod>2015-08-25T17:09:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/about/</loc>
+    <lastmod>2015-08-22T06:42:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/colophon/</loc>
+    <lastmod>2015-08-22T06:28:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/code/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/about-this-site/</loc>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://git.strakhov.ru/writing/</loc>
   </url>
   
   <url>
@@ -28,31 +55,14 @@
   </url>
   
   <url>
-    <loc>http://git.strakhov.ru/tags/fixed/</loc>
-    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://git.strakhov.ru/fixed/</loc>
-    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
+    <lastmod>2015-08-22T06:42:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://git.strakhov.ru/</loc>
-    <lastmod>2017-03-30T23:27:01+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://git.strakhov.ru/post/</loc>
     <lastmod>2017-03-30T23:14:02+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://git.strakhov.ru/tags/</loc>
     <priority>0</priority>
   </url>
   
