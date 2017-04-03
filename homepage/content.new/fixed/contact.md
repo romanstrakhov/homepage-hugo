@@ -13,12 +13,12 @@ draft = false
 
 Другие места присутствия:
 
-Facebook: facebook.com/romanstrakhov
-Behance: be.net/strakhov
-Twitter: twitter.com/gfear
-LiveJournal: gfear.livejournal.com
-В контакте: vk.com/gfear
-ICQ: 8989985
-Skype: roman.strakhov
+* Facebook: facebook.com/romanstrakhov
+* Behance: be.net/strakhov
+* Twitter: twitter.com/gfear
+* LiveJournal: gfear.livejournal.com
+* В контакте: vk.com/gfear
+* ICQ: 8989985
+* Skype: roman.strakhov
 
 См. также: платежные реквизиты
